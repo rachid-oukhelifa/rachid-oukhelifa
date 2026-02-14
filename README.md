@@ -3,8 +3,7 @@
 Je suis étudiant en informatique, passionné par le développement web et la sécurité des systèmes ! 🚀  
 J'adore explorer les nouvelles technologies, résoudre des défis techniques, et apprendre toujours plus dans le domaine de l'informatique.
 
-- 🎓 **Actuellement** : 3ème année de Licence en informatique à l'Université Bretagne Occidentale à Brest
-- 💼 **Projet en cours** : Développement d'une application pour la gestion de concours
+- 🎓 **Actuellement** : Master 1 Sciences du Logiciel à l'Univeristé Paul Sabatier (Toulouse 3)
 
 ---
 
